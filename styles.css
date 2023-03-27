@@ -1,0 +1,28 @@
+.con {
+    width: 800px;
+    height: 650px;
+    margin:50px auto auto auto;
+    background-color:white;
+    border-radius: 25px;
+    border: 2px solid black;
+    padding: 15px;
+    box-shadow: 5px 5px 10px;
+  }
+
+  /* body{
+    background-color: black;
+  } */
+.sq{
+    font-size: 25px;
+}
+
+label{
+    font-size: 18px;
+}
+.dropdown-toggle{
+    width:100%;
+}
+#floatingTextarea2{
+    width: 97%;
+    margin-left: 11px;
+}
